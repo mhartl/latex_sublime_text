@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Chapter~\\ref{cha:$1}$0]]></content>
+    <scope>text.tex.latex</scope>
+    <tabTrigger>cref</tabTrigger>
+    <description>Chapter reference</description>
+</snippet>

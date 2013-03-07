@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\footnote{$0}</string>
+	<key>name</key>
+	<string>Footnote</string>
+	<key>scope</key>
+	<string>text.tex.latex</string>
+	<key>tabTrigger</key>
+	<string>foot</string>
+	<key>uuid</key>
+	<string>1776DB1C-5BD6-4E5A-B9D8-54EB96A4A0C9</string>
+</dict>
+</plist>
