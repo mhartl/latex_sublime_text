@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Box~\\ref{sidebar:$1}$0]]></content>
+    <scope>text.tex.latex</scope>
+    <tabTrigger>bref</tabTrigger>
+    <description>Box reference</description>
+</snippet>
