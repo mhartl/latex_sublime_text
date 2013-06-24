@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>%= code:ruby
+	<string>%= lang:ruby
 \\begin{code}
 $0
 \\end{code}</string>
