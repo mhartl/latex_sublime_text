@@ -4,6 +4,6 @@
 $0
 \\end{code}]]></content>
     <scope>text.tex.latex</scope>
-    <tabTrigger>code</tabTrigger>
+    <tabTrigger>lang</tabTrigger>
     <description>Code block</description>
 </snippet>
