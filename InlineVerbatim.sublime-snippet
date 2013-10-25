@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\\verb+$1+$0]]></content>
+	<tabTrigger>v</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>

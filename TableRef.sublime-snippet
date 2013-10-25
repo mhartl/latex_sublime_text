@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Table~\\ref{table:$1}$0]]></content>
+    <scope>text.tex.latex</scope>
+    <tabTrigger>tref</tabTrigger>
+    <description>Table reference</description>
+</snippet>

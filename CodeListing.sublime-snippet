@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[\begin{codelisting}
+\label{code:$1}
+\codecaption{$2}
+%= lang:$3
+\begin{code}
+$4
+\end{code}
+\end{codelisting}]]></content>
+    <tabTrigger>clist</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>Code listing</description>
+</snippet>
