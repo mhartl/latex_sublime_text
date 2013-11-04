@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[\\begin{equation}
+\\label{eq:$1}
+$0
+\\end{equation}]]></content>
+    <tabTrigger>beq</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>LaTeX code block</description>
+</snippet>
