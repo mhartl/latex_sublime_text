@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Table~\\ref{table:$1}$0]]></content>
-    <scope>text.tex.latex</scope>
+    <scope>text.tex.latex, text.html.markdown</scope>
     <tabTrigger>tref</tabTrigger>
     <description>Table reference</description>
 </snippet>
