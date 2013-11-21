@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Listing~\\ref{code:$1}$0]]></content>
-    <scope>text.tex.latex, text.html.markdown</scope>
-    <tabTrigger>lref</tabTrigger>
-    <description>Code listing reference</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Figure~\\ref{fig:$1}$0]]></content>
-    <scope>text.tex.latex, text.html.markdown</scope>
-    <tabTrigger>fref</tabTrigger>
-    <description>Figure reference</description>
-</snippet>

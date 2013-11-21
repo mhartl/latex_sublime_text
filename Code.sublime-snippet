@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[%= lang:$1
-\\begin{code}
-$0
-\\end{code}]]></content>
-    <scope>text.tex.latex</scope>
-    <tabTrigger>code</tabTrigger>
-    <description>Code block</description>
-</snippet>

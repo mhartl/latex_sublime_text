@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Eq.~\\eqref{eq:$1}$0]]></content>
-    <scope>text.tex.latex, text.html.markdown</scope>
-    <tabTrigger>eqref</tabTrigger>
-    <description>Equation reference</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[Section~\\ref{sec:$1}$0]]></content>
-    <scope>text.tex.latex, text.html.markdown</scope>
-    <tabTrigger>sref</tabTrigger>
-    <description>Section reference</description>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[\\kode{$1}$0]]></content>
-	<tabTrigger>k</tabTrigger>
-	<scope>text.tex.latex</scope>
-</snippet>

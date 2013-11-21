@@ -1,5 +1,0 @@
-<snippet>
-	<content><![CDATA[\PolyTeX\]]></content>
-	<tabTrigger>pt</tabTrigger>
-	<scope>text.tex.latex</scope>
-</snippet>

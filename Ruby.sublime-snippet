@@ -1,9 +1,0 @@
-<snippet>
-    <content><![CDATA[%= lang:ruby
-\\begin{code}
-$0
-\\end{code}]]></content>
-    <tabTrigger>ruby</tabTrigger>
-    <scope>text.tex.latex</scope>
-    <description>Ruby code block</description>
-</snippet>
